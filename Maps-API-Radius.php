@@ -1,7 +1,7 @@
+<!--This allows you to load a Google Maps API Map onto a page with a pin and radius -->
+<!-- Load this file into the head -->
 
-<!-- Load this file into the head 
-
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"> </script> -->
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"> </script>
 
 <!--The map containing div-->
 <div class="mapcontainer"><div id="map-canvas" style="height:400px; width:605px;"></div></div>
